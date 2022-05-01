@@ -1,5 +1,9 @@
 Hi 👋 My name is Ayush Basak
-============================full stack developer--------------------* 🌍  I'm based in Jaipur, India* 🖥️  See my portfolio at [ayushbasak.tech](http://ayushbasak.tech)* ✉️  You can contact me at [ayushbasak0210@gmail.com](mailto:ayushbasak0210@gmail.com)
+============================full stack developer
+--------------------
+* 🌍  I'm based in Jaipur, India
+* 🖥️  See my portfolio at [ayushbasak.tech](http://ayushbasak.tech)
+* ✉️  You can contact me at [ayushbasak0210@gmail.com](mailto:ayushbasak0210@gmail.com)
 
 ### Skills
 
