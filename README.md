@@ -1,5 +1,6 @@
 Hi 👋 My name is Ayush Basak
-============================full stack developer
+============================
+full stack developer
 --------------------
 * 🌍  I'm based in Jaipur, India
 * 🖥️  See my portfolio at [ayushbasak.tech](http://ayushbasak.tech)
