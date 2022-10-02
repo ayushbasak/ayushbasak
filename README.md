@@ -17,6 +17,7 @@ Full Stack Developer
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/jquery-colored.svg" width="auto" height="36" alt="JQuery" /></a>
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/rust-colored.svg" width="auto" height="36" alt="Rust" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/sass-colored.svg" width="auto" height="36" alt="Sass" /></a>
+<a href="https://openjdk.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/java-colored.svg" width="auto" height="36" alt="Java" /></a>
 </p>
 
 ### Socials
