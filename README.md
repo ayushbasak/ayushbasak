@@ -3,7 +3,7 @@ Hi 👋 My name is Ayush Basak
 Full Stack Developer
 --------------------
 * 🌍  I am based in Jaipur, India
-* 🖥️  See my portfolio at [basak.app](http://basak.app)
+* 🖥️  See my portfolio at [ayushbasak.vercel.app](https://ayushbasak.vercel.app)
 * ✉️  You can contact me at [ayushbasak0210@gmail.com](mailto:ayushbasak0210@gmail.com)
 
 ### Experience
